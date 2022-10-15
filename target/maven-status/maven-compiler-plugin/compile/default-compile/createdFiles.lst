@@ -1,0 +1,4 @@
+com\sb\certifications\repos\CertificationsRepository.class
+com\sb\certifications\CertificationserviceApplication.class
+com\sb\certifications\controller\CertificationsController.class
+com\sb\certifications\model\Certifications.class
